@@ -1,0 +1,23 @@
+{
+  "name": "planets-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caioh123/planets-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caioh123/planets-node/issues"
+  },
+  "homepage": "https://github.com/caioh123/planets-node#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
